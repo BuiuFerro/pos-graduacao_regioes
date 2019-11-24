@@ -1,6 +1,6 @@
 # Análise dos programas de Pós-Graduação no Brasil em 2018.
 ## Trabalho para a disciplina de Laboratório de Banco de Dados
-### Dicentes: Bruno Carvalho Ferro & Leonardo Tamanhão
+### Discentes: Bruno Carvalho Ferro & Leonardo Tamanhão
 ### Docente: Professor Fernando Masanori
 
 # Requirements
