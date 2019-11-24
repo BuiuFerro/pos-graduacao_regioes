@@ -16,3 +16,8 @@ conda install matplotlib
 
 # Referências:
 https://dadosabertos.capes.gov.br/
+
+# Jupyter Notebook:
+```
+https://github.com/BuiuFerro/pos-graduacao_regioes/blob/master/P%C3%B3s-Gradua%C3%A7%C3%A3o%20por%20Estado.ipynb
+```
