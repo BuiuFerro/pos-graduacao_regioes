@@ -14,7 +14,7 @@ conda install json
 conda install matplotlib
 ```
 
-##Rodando
+## Rodando
 Para mostrar a região com mais cursos em uma determinada área, troca-se o ensino pela área
 ```python
 area = "MEDICINA"
