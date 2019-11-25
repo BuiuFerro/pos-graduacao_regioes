@@ -14,6 +14,12 @@ conda install json
 conda install matplotlib
 ```
 
+##Rodando
+Para mostrar a região com mais cursos em uma determinada área, troca-se o ensino pela área
+```
+area = "MEDICINA"
+df.loc[df["NM_AREA_CONHECIMENTO"] == area]["SG_UF_PROGRAMA"].value_counts().head().plot(kind='barh')
+```
 # Referências:
 https://dadosabertos.capes.gov.br/
 
