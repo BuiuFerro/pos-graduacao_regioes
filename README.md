@@ -7,11 +7,11 @@
 
 ## Utilizamos o Jupyter Notebook, Anaconda e Python 3.7 para construção do projeto com as seguintes bibliotecas:
 
-```
-conda install pandas
-conda install folium
-conda install json
-conda install matplotlib
+```python
+pip install pandas
+pip install folium
+pip install json
+pip install matplotlib
 ```
 
 ## Rodando
